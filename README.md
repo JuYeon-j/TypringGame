@@ -1,6 +1,6 @@
 # TypringGame
 
-# pip install
+* pip install
 
 pip install pygame
 
