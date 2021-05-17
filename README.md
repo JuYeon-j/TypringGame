@@ -1,6 +1,6 @@
 # TypringGame
 
-깔아야하는 pip
+install pip
 
 pip install pygame
 
